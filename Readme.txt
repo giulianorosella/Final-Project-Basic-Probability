@@ -1,3 +1,6 @@
+# Final-Project-Basic-Probability
+Sven Cornets de Groot, Giuliano Rosella
+
 The folder contains two files:
 
 - "LinearRegressing" is the code we implemented
